@@ -6,8 +6,8 @@
 
 ## Index
 
-- [Node.js](nodejs/README.md)
-- [C#](csharp-console/README.md) (basic console application)
+- [Node.js](nodejs/)
+- [C#](csharp-console/) (basic console application)
 
 ## Contributing
 

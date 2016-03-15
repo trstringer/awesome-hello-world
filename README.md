@@ -20,8 +20,6 @@ Contributions are **extremely** welcome and encouraged!  I simply don't have the
 3. Pre-code instructions on setting up the environment (i.e. you need to first download this, followed by installing this, and test out your environment like this)
 4. One or more code files with ***runnable code*** (provided the pre-code steps and environment are correctly setup)
 
-# New Language Contribution Format...
-
 # ***new-language*** Hello World
 
 ## Pre-Code Install/Configuration
@@ -39,3 +37,5 @@ Contributions are **extremely** welcome and encouraged!  I simply don't have the
 *If there are code explanations that haven't been fully explained within the code (recommended) then this would be the place to write down any more human words to explain what the code does and/or why it does it*
 
 #### **NOTE**: If there are pre-code and development steps that are platform-dependent, duplicate these sections and specify which section is for which platform (i.e. Windows, Linux, etc.)
+
+#### See [this as an example contribution README](nodejs/README.md)

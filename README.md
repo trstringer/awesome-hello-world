@@ -8,6 +8,7 @@
 
 - [Node.js](nodejs/)
 - [C#](csharp-console/) (basic console application)
+- [PowerShell](powershell/)
 
 ## Contributing
 
